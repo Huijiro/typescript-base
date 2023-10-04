@@ -44,7 +44,7 @@ cd typescript-boilerplate
 
 ### Install the project dependencies:
 
-```bash
+```
 npm install
 ```
 
